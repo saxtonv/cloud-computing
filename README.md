@@ -1,7 +1,7 @@
 # GreatTeam - Creacion de Celulas
 
 Como configuré mi entorno en el siguiente enlace
-> Hito 0 - *[Configuracion del entorno](https://www.markdownguide.org)*
+> Hito 0 - *[Configuracion del entorno](https://github.com/saxtonv/cloud-computing/blob/main/docs/hito_0/configuracion.md)*
 
 ## Problema a Resolver: 
 Los clientes de una empresa de Outsourcing TI necesitan constantemente realizar presupuestos para llevar a cabo sus iniciativas de proyectos Informaticos. El problema es que para realizar la solicitud deben acudir a los ejecutivos comerciales y explicar todo lo que necesitan, para que estos puedan generar un presupuesto.

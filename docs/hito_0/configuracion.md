@@ -31,6 +31,6 @@
 ## Clonando el repositorio
 17. Ingresar al repositorio que se clonará en GitHub
 18. Clicar en el boton verde "Code" y seleccionar SSH
-19. Copiar en el portapapeles la ruta git@github.com:saxtonv/cloud-computing.git
+19. Copiar en el portapapeles la ruta indicada
 20. Abrir la terminal en la carpeta donde queremos clonar el repositorio
 21. Ejecutar el comando `git clone git@github.com:saxtonv/cloud-computing.git`
