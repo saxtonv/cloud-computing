@@ -1,18 +1,28 @@
-# cloud-computing - Proyecto Creacion de Celulas
+# GreatTeam - Creacion de Celulas
+
+Como configuré mi entorno en el siguiente enlace
+> Hito 0 - *[Configuracion del entorno](https://www.markdownguide.org)*
 
 ## Problema a Resolver: 
-Los clientes de una empresa de Outsourcing de perfiles informaticos y desarrollo a la medida necesitan constantemente realizar presupuestos para llevar a cabo sus iniciativas de proyectos Informaticos.
+Los clientes de una empresa de Outsourcing TI necesitan constantemente realizar presupuestos para llevar a cabo sus iniciativas de proyectos Informaticos. El problema es que para realizar la solicitud deben acudir a los ejecutivos comerciales y explicar todo lo que necesitan, para que estos puedan generar un presupuesto.
 
 ## Solucion Propuesta:
-Sistema basado en un algoritmo de optimizacion 'a definir' (por ahora) el cual ingresando las caracteristicas del equipo y presupuesto entregue un potencial equipo (celula de desarrollo) y tiempo estimado en la creacion del producto.
+Para optimizar el tiempo de las solicitudes de los clientes, se propone una herramienta web la cual ingresando las caracteristicas del proyecto (tecnologias, presupuesto y tiempo) entregue un potencial equipo (celula de desarrollo) y tiempo estimado en la creacion del producto/proyecto.
 
 ## Usuarios Objetivos
-Los usuarios objetivos son los clientes que requieran un presupuesto outsourcing para una iniciativa informatica
+Clientes de una empresa software factory
+Clientes de una empresa oursourcing TI
 
 ### EPIC
-> Yo como gerente de informatica necesito cotizar un equipo de desarrollo segun mi presupuesto
-> Yo como gerente de informatica necesito cotizar un equipo de desarrollo segun el tiempo que tengo para desarrollar
+> Como usuario necesito saber cuanto costará crear una app movil
+> Como usuario necesito saber cuanto tiempo tomará crear una app movil
 
 ### User Story
-> 
+> Consulta por costo
 
+> Consulta por tiempo
+
+
+
+
+| [GreatTeam](https://github.com/saxtonv/cloud-computinggit)                    | 0.1     |
