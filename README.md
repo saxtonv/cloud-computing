@@ -7,22 +7,19 @@ Como configuré mi entorno en el siguiente enlace
 Los clientes de una empresa de Outsourcing TI necesitan constantemente realizar presupuestos para llevar a cabo sus iniciativas de proyectos Informaticos. El problema es que para realizar la solicitud deben acudir a los ejecutivos comerciales y explicar todo lo que necesitan, para que estos puedan generar un presupuesto.
 
 ## Solucion Propuesta:
-Para optimizar el tiempo de las solicitudes de los clientes, se propone una herramienta web la cual ingresando las caracteristicas del proyecto (tecnologias, presupuesto y tiempo) entregue un potencial equipo (celula de desarrollo) y tiempo estimado en la creacion del producto/proyecto.
+Para optimizar el tiempo de las solicitudes de los clientes, se propone una herramienta web la cual ingresando las caracteristicas del proyecto (tecnologias, presupuesto y plazo) entregue un potencial equipo (celula de desarrollo) y tiempo estimado en la creacion del producto/proyecto.
 
 ## Usuarios Objetivos
 Clientes de una empresa software factory
 Clientes de una empresa oursourcing TI
 
-### EPIC
-> Como usuario necesito saber cuanto costará crear una app movil
-> Como usuario necesito saber cuanto tiempo tomará crear una app movil
+## User Journey
+El usuario realiza la solicitud de cotización ingresando el tipo de proyecto, la tecnología, presupuesto y plazo.
+El sistema le entregará el equipo necesario para desarrollar el proyecto, 
 
 ### User Story
-> Consulta por costo
+Consulta por costo
+> Como usuario necesito saber cuanto costará crear una app movil para ver la viabilidad del proyecto
 
-> Consulta por tiempo
-
-
-
-
-| [GreatTeam](https://github.com/saxtonv/cloud-computinggit)                    | 0.1     |
+Consulta por tiempo
+> Como usuario necesito saber cuanto tiempo tomará crear una app movil para ver la viabilidad del proyecto
