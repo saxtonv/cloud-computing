@@ -6,16 +6,16 @@
 03. Configuro el usuario y correo:
     ❯ git config --global user.name "Esteban Saxton"
     ❯ git config --global user.mail "e.saxton@go.ugr.es"
-04. En la terminal crear clave ssh con el comando `ssh-keygen -t ed25519 -C "e.saxton@go.ugr.es"`.
+04. En la terminal crear clave ssh con el comando `ssh-keygen -t ed25519 -C "tucorreo@github.es"`.
 05. Cambiar el NOMBRECLAVE ssh o dejar el que viene por defecto.
 06. Ingresar una passphrase y luego lo repetir la misma.
 07. Iniciar ssh-agent con el comando `eval "$(ssh-agent -s)"`
 08. Crear el archivo de configuracion en el directorio .ssh con el comando `touch ~/.ssh/config`
 09. Editar el archivo config agregando lo siguiente y remplazando el nombre de la llave por el que le dimos en el paso 5:
-    >Host *
-    >    AddKeysToAgent yes
-    >    UseKeychain yes
-    >    IdentityFile ~/.ssh/NOMBRECLAVE
+    ´Host *
+        AddKeysToAgent yes
+        UseKeychain yes
+        IdentityFile ~/.ssh/NOMBRECLAVE´
 10. Agregar la clave privada SSH al ssh-agent con el comando `ssh-add -K ~/.ssh/NOMBRECLAVE`
 11. Ingresar a la carpeta donde generó la clave ssh y abrir el archivo .pub con VS Code. 
 12. Copiar el contenido en el portapapeles.
