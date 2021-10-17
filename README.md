@@ -15,7 +15,7 @@ Clientes de una empresa oursourcing TI
 
 ## User Journey
 El usuario realiza la solicitud de cotización ingresando el tipo de proyecto, la tecnología, presupuesto y plazo.
-El sistema le entregará el equipo necesario para desarrollar el proyecto, 
+El sistema le entregará una propuesta de equipo para desarrollar el proyecto, junto con el plazo y costo.
 
 ### User Story
 Consulta por costo
