@@ -1,24 +1,9 @@
 # Entidades
 
-**Profile**: Clase para manejar los perfiles profesionales.
-- id: identificador del perfil
-- name: nombre del perfil
-- rank: nivel del perfil (seniority)
-- tecnologies: tecnologias que maneja
-- cost: costo del perfil
+**User**: clase para manejar al usuario.
 
-**Technology**: Clase para manejar las tecnologías
-- id: ideantificador de la tecnología
-- name: nombre de la tecnología
+**Article**: Clase para manejar los articulos comprados por el usuario
 
-**Client**: Clase para manejar a los usuarios
-- id: identificador
-- email: correo del usuario
-- phone: telefono del usuario
-- name: nombre del usuario
+**Purchase**: Clase para manejar las compras realizadas por el usuario
 
-**Quotation**: Clase para manejar la cotización realizada por el cliente
-- id: identificados de la cotización
-- name: nombre o descripcion del proyecto
-- tecnologies: tecnologias aplicadas al proyecto
-- 
+**Planning**: Clase para manejar la planificación generada para un usuario

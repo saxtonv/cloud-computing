@@ -9,7 +9,7 @@
 04. En la terminal crear clave ssh con el comando `ssh-keygen -t ed25519 -C "tucorreo@github.es"`.
 05. Cambiar el NOMBRECLAVE ssh o dejar el que viene por defecto.
 06. Ingresar una passphrase y luego lo repetir la misma.
-07. Iniciar ssh-agent con el comando `eval "$(ssh-agent -s)"`
+07. Elvaluar ssh-agent con el comando `eval "$(ssh-agent -s)"`
 08. Crear el archivo de configuracion en el directorio .ssh con el comando `touch ~/.ssh/config`
 09. Editar el archivo config agregando lo siguiente y remplazando el nombre de la llave por el que le dimos en el paso 5:
 ~~~
@@ -33,4 +33,5 @@
 18. Clicar en el boton verde "Code" y seleccionar SSH
 19. Copiar en el portapapeles la ruta indicada
 20. Abrir la terminal en la carpeta donde queremos clonar el repositorio
-21. Ejecutar el comando `git clone git@github.com:saxtonv/cloud-computing.git`
+22. Para activar el SSH, en la terminal ingresar el comando `ssh-add -K ~/.ssh/NOMBRECLAVE`
+21. Finalmente para clonar el repositorio, ejecutar el comando `git clone git@github.com:saxtonv/cloud-computing.git`

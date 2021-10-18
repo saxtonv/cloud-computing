@@ -13,8 +13,7 @@ Para optimizar la planificacion y pronostico de articulos a consumir en un inter
 El usuario podrá acceder desde cualquier lugar y plataforma, y la performance del procesamiento no dependera de su dispositivo.
 
 ## Usuarios Objetivos
-Mantenedores de hogar
-Responsables de compras
+Mantenedores de hogar y/o responsables de compras
 
 ## User Journey
 1. El usuario compra un articulo registrandolo en el sistema indicando cantidad, costo e importancia
