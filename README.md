@@ -1,25 +1,40 @@
-# GreatTeam - Creacion de Celulas
+# SmartBuy - Planificador de compras
 
 Como configuré mi entorno en el siguiente enlace
 > Hito 0 - *[Configuracion del entorno](https://github.com/saxtonv/cloud-computing/blob/main/docs/hito_0/configuracion.md)*
 
 ## Problema a Resolver: 
-Los clientes de una empresa de Outsourcing TI necesitan constantemente realizar presupuestos para llevar a cabo sus iniciativas de proyectos Informaticos. El problema es que para realizar la solicitud deben acudir a los ejecutivos comerciales y explicar todo lo que necesitan, para que estos puedan generar un presupuesto.
+Al momento de realizar las compras de suministros, normalmente, las personas suelen pronosticar cuanto consumiran un determinado articulo, ya sea de manera diaria, semanal, quincenal, mensual, etc. La variabilidad de lo que consumimos y lo que compramos puede llevar a un desorden en las finanzas personales o familiares. 
 
 ## Solucion Propuesta:
-Para optimizar el tiempo de las solicitudes de los clientes, se propone una herramienta web la cual ingresando las caracteristicas del proyecto (tecnologias, presupuesto y plazo) entregue un potencial equipo (celula de desarrollo) y tiempo estimado en la creacion del producto/proyecto.
+Para optimizar la planificacion y pronostico de articulos a consumir en un intervalo de tiempo, se propone una solucion web que pueda ayudar en la tarea considerando variables como el consumo realizado en meses anteriores, el grado de importancia de los articulos y que tan bueno era el producto.
+
+## ¿Por que debe estar en la nube?
+El usuario podrá acceder desde cualquier lugar y plataforma, y la performance del procesamiento no dependera de su dispositivo.
 
 ## Usuarios Objetivos
-Clientes de una empresa software factory
-Clientes de una empresa oursourcing TI
+Mantenedores de hogar
+Responsables de compras
 
 ## User Journey
-El usuario realiza la solicitud de cotización ingresando el tipo de proyecto, la tecnología, presupuesto y plazo.
-El sistema le entregará una propuesta de equipo para desarrollar el proyecto, junto con el plazo y costo.
+1. El usuario compra un articulo registrandolo en el sistema indicando cantidad, costo e importancia
+2. El usuario registra cuando un articulo fue consumido, evaluando el articulo.
+3. El usuario solicita al sistema la planificacion de compra indicando el intervalo de tiempo.
+4. El usuario quita los articulos que no considera en la planificación.
+5. El usuario puede valorar la planificacion realizada por el sistema.
 
 ### User Story
-Consulta por costo
-> Como usuario necesito saber cuanto costará crear una app movil para ver la viabilidad del proyecto
+Registrar compra de articulo
+> Como usuario necesito registrar la compra de un articulo
 
-Consulta por tiempo
-> Como usuario necesito saber cuanto tiempo tomará crear una app movil para ver la viabilidad del proyecto
+Registrar consumo de articulo
+> Como usuario necesito registrar el consumo de un articulo
+
+Solicitud de planificación
+> Como usuario solicito una planificación de compra por un intervalo de tiempo
+
+Modificar planificación
+> Como usuario necesito quitar los articulo que no me interesan comprar
+
+Evaluar planificación
+> Como usuario quiero evaluar la planificación en relación a lo acertada que esta fue.
