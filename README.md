@@ -37,3 +37,7 @@ Modificar planificación
 
 Evaluar planificación
 > Como usuario quiero evaluar la planificación en relación a lo acertada que esta fue.
+
+## Documentación
+- *[Entidades](https://github.com/saxtonv/cloud-computing/blob/main/docs/hito_1/entidades.md)*
+- *[MVP](https://github.com/saxtonv/cloud-computing/blob/main/docs/hito_1/mvp.md)*
