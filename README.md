@@ -22,7 +22,7 @@ Mantenedores de hogar y/o responsables de compras
 4. El usuario quita los articulos que no considera en la planificación.
 5. El usuario puede valorar la planificacion realizada por el sistema.
 
-### User Story
+### User Story (EPIC - Features)
 Registrar compra de articulo
 > Como usuario necesito registrar la compra de un articulo
 
