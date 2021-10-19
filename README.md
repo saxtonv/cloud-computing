@@ -15,7 +15,7 @@ El usuario podrá acceder desde cualquier lugar y plataforma, y la performance d
 ## Usuarios Objetivos
 Mantenedores de hogar y/o responsables de compras
 
-## User Journey
+## User Journey.
 1. El usuario compra un articulo registrandolo en el sistema indicando cantidad, costo e importancia
 2. El usuario registra cuando un articulo fue consumido, evaluando el articulo.
 3. El usuario solicita al sistema la planificacion de compra indicando el intervalo de tiempo.
