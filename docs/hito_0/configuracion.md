@@ -35,3 +35,6 @@
 20. Abrir la terminal en la carpeta donde queremos clonar el repositorio
 22. Para activar el SSH, en la terminal ingresar el comando `ssh-add -K ~/.ssh/NOMBRECLAVE`
 21. Finalmente para clonar el repositorio, ejecutar el comando `git clone git@github.com:saxtonv/cloud-computing.git`
+
+## Iniciado el ordenador
+22. Al iniciar el ordenador, en la terminal deben activar nuevamente el SSH Key con el comando `ssh-add -K ~/.ssh/NOMBRECLAVE`
