@@ -5,11 +5,8 @@ Este es una tentativa planificación de los MVP, la cual podria ser modificada e
 Registrar una compra de articulo
 
 ## MVP 2
-Registrar consumo de articulo
-
-## MVP 3
 Crear planificación
 
-## MVP 4
+## MVP 3
 Modificar planificación
 Evaluar planificación
