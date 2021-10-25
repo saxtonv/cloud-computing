@@ -34,6 +34,8 @@ Modificar planificación
 Evaluar planificación
 > Como usuario quiero evaluar la planificación en relación a lo acertada que esta fue.
 
+*Nota: la funcionalidad de registrar el consumo queda excluida.*
+
 ## Documentación
 - Aquí se puede ver las entidades *[Entidades](https://github.com/saxtonv/cloud-computing/blob/main/docs/hito_1/entidades.md)* con las que se pretende trabajar.
 - Aquí se pueden ver los minimos productos viables *[MVP](https://github.com/saxtonv/cloud-computing/blob/main/docs/hito_1/mvp.md)*.
