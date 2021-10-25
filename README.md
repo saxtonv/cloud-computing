@@ -35,5 +35,6 @@ Evaluar planificación
 > Como usuario quiero evaluar la planificación en relación a lo acertada que esta fue.
 
 ## Documentación
-- *[Entidades](https://github.com/saxtonv/cloud-computing/blob/main/docs/hito_1/entidades.md)*
-- *[MVP](https://github.com/saxtonv/cloud-computing/blob/main/docs/hito_1/mvp.md)*
+- Aquí se puede ver las entidades *[Entidades](https://github.com/saxtonv/cloud-computing/blob/main/docs/hito_1/entidades.md)* con las que se pretende trabajar.
+- Aquí se pueden ver los minimos productos viables *[MVP](https://github.com/saxtonv/cloud-computing/blob/main/docs/hito_1/mvp.md)*.
+- Aqui se puede ver el código de la *[Clase Principal](https://github.com/saxtonv/cloud-computing/blob/main/src/article.py)*.
