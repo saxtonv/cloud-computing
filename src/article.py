@@ -4,3 +4,6 @@ class Article:
         self.id = id
         self.description = description
         self.created = created
+
+    def __str__(self):
+        pass

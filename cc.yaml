@@ -1,6 +1,6 @@
-Article: src/Article.py
-Purchase: src/Purchase.py
-Planning: src/Planning.py
-User: src/User.py
+Article: src/article.py
+Purchase: src/purchase.py
+Planning: src/planning.py
+User: src/user.py
 
 lenguaje: Python
