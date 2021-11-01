@@ -1,8 +1,5 @@
 # SmartBuy - Planificador de compras
 
-Como configuré mi entorno en el siguiente enlace
-> Hito 0 - *[Configuracion del entorno](https://github.com/saxtonv/cloud-computing/blob/main/docs/hito_0/configuracion.md)*
-
 ## Problema a Resolver: 
 Al momento de realizar las compras de suministros, normalmente, las personas suelen pronosticar cuanto consumiran un determinado articulo, ya sea de manera diaria, semanal, quincenal, mensual, etc. La variabilidad de lo que consumimos y lo que compramos puede llevar a un desorden en las finanzas personales o familiares. 
 
@@ -15,6 +12,8 @@ El usuario podrá acceder desde cualquier lugar y plataforma, y la performance d
 ## Usuarios Objetivos
 Mantenedores de hogar y/o responsables de compras
 
+# Entrega Hito 1
+----
 ## User Journey.
 1. El usuario compra un articulo registrandolo en el sistema indicando cantidad, costo e importancia
 2. El usuario solicita al sistema la planificacion de compra indicando el intervalo de tiempo.
@@ -40,3 +39,4 @@ Evaluar planificación
 - Aquí se puede ver las entidades *[Entidades](https://github.com/saxtonv/cloud-computing/blob/main/docs/hito_1/entidades.md)* con las que se pretende trabajar.
 - Aquí se pueden ver los minimos productos viables *[MVP](https://github.com/saxtonv/cloud-computing/blob/main/docs/hito_1/mvp.md)*.
 - Aqui se puede ver el código de la *[Clase Principal](https://github.com/saxtonv/cloud-computing/blob/main/src/article.py)*.
+- Aquí se puede ver como realicé la *[Configuracion del entorno](https://github.com/saxtonv/cloud-computing/blob/main/docs/hito_0/configuracion.md)*

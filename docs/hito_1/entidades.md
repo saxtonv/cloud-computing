@@ -2,7 +2,7 @@
 
 **User**: clase para manejar al usuario.
 
-**Article**: Clase para manejar los articulos comprados por el usuario
+**Article**: Clase para manejar los articulos
 
 **Purchase**: Clase para manejar las compras realizadas por el usuario
 
