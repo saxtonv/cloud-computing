@@ -23,16 +23,16 @@ Mantenedores de hogar y/o responsables de compras
 
 ### User Story (EPIC - Features).
 Registrar compra de articulo
-> Como usuario necesito registrar la compra de un articulo
+> Como usuario necesito registrar la compra de un articulo para recordar posteriormente cuantas unidades compré y asi saber si fueron las suficientes para el tiempo que estimé.
 
 Solicitud de planificación
-> Como usuario solicito una planificación de compra por un intervalo de tiempo
+> Como usuario solicito una planificación de compra por un intervalo de tiempo para recordar lo que necesito y la cantidad de cada artículo.
 
 Modificar planificación
-> Como usuario necesito quitar los articulo que no me interesan comprar
+> Como usuario necesito quitar los articulo que no me interesan comprar en la planificación que me recomendó el sistema para que este vaya recopilando mis preferencias.
 
 Evaluar planificación
-> Como usuario quiero evaluar la planificación en relación a lo acertada que esta fue.
+> Como usuario quiero evaluar la planificación en relación a lo acertada que esta fue para que vaya recopilando mis preferencias.
 
 *Nota: la funcionalidad de registrar el consumo queda excluida.*
 
